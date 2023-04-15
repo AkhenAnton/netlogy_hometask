@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![logo](/Users/anton/Desktop/1.2. Site For Import/img/NeuroStartUp.png)
+![](./logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
@@ -19,7 +19,7 @@
 
 Ниже пример кода из нашего приложения:
 
-```
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
